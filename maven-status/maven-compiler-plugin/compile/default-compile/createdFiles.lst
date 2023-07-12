@@ -1,0 +1,7 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repository/LogRepo.class
+com/example/demo/MyController.class
+com/example/demo/Config$1.class
+com/example/demo/Config.class
+com/example/demo/entity/Log.class
+com/example/demo/ILogRepo.class
